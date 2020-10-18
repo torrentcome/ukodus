@@ -32,7 +32,6 @@ private val darkThemeColors = darkColors(
     surface = Jaguar
 )
 
-
 val shapes = Shapes(
     medium = RoundedCornerShape(12.dp),
     large = RoundedCornerShape(12.dp)
